@@ -8,3 +8,6 @@
 - Collecting Whisky
 
 ### Skills:
+- SQL 
+- Cooking
+- Sleeping
