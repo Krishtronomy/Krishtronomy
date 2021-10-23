@@ -6,3 +6,5 @@
 - Exploring Nature 
 - Going for walks
 - Collecting Whisky
+
+### Skills:
