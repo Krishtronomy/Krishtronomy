@@ -9,5 +9,6 @@
 
 ### Skills:
 - SQL 
-- Cooking
+- Cooking(microwaving)
 - HTML & CSS
+- Ruby
